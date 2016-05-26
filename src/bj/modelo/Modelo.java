@@ -1,5 +1,8 @@
-package blackJack;
+package bj.modelo;
 
+import bj.modelo.Carta;
+import bj.modelo.Jugador;
+import bj.modelo.Crupier;
 import java.util.ArrayList;
 
 public class Modelo {

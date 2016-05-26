@@ -1,5 +1,7 @@
-package blackJack;
+package bj.vista;
 
+import bj.modelo.Carta;
+import bj.controlador.Controlador;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.GridLayout;

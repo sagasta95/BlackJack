@@ -1,6 +1,8 @@
 //no puede haber clsaes jugador ni mano eso hay que cambiarlo luego
-package blackJack;
+package bj.vista;
 
+import bj.modelo.Carta;
+import bj.controlador.Controlador;
 import java.awt.event.ActionEvent;
 import java.util.ArrayList;
 import java.util.Scanner;

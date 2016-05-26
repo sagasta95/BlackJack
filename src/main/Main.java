@@ -1,4 +1,8 @@
-package blackJack;
+package main;
+
+import bj.modelo.Modelo;
+import bj.controlador.Controlador;
+import bj.vista.VistaSwing;
 
 public class Main {
 

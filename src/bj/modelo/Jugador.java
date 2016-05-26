@@ -1,4 +1,4 @@
-package blackJack;
+package bj.modelo;
 
 public class Jugador extends Persona {
 

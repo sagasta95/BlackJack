@@ -1,5 +1,7 @@
-package blackJack;
+package bj.controlador;
 
+import bj.vista.InterfazVista;
+import bj.modelo.Modelo;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 

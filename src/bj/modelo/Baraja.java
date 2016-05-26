@@ -1,4 +1,4 @@
-package blackJack;
+package bj.modelo;
 
 import java.util.ArrayList;
 import javax.swing.ImageIcon;

@@ -1,6 +1,8 @@
 
-package blackJack;
+package bj.vista;
 
+import bj.modelo.Carta;
+import bj.controlador.Controlador;
 import java.util.ArrayList;
 
 

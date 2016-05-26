@@ -1,5 +1,5 @@
 
-package blackJack;
+package bj.modelo;
 
 import javax.swing.ImageIcon;
 
